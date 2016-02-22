@@ -1,0 +1,28 @@
+{
+  "name": "stoat",
+  "version": "0.1.0",
+  "description": "A tiny, energetic game engine. Loves to do the weasel war dance.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parasyte/stoat.git"
+  },
+  "keywords": [
+    "game",
+    "engine",
+    "framework",
+    "foundation",
+    "2d",
+    "3d",
+    "webgl",
+    "webaudio",
+    "gamepad"
+  ],
+  "author": "Jay Oster <jay@kodewerx.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parasyte/stoat/issues"
+  },
+  "homepage": "https://github.com/parasyte/stoat#readme"
+}
